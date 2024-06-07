@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\vadim\source\repos\213\packages\TensorFlow.Keras.0.15.0\lib\netstandard2.0\Tensorflow.Keras.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\vadim\source\repos\213\packages\TensorFlow.NET.0.150.0\lib\netstandard2.0\Tensorflow.Binding.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\vadim\source\repos\213\packages\NumpyDotNet.0.9.86.2\lib\netstandard2.0\NumpyDotNet.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\vadim\.nuget\packages\pythonnet\3.0.3\lib\netstandard2.0\Python.Runtime.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/CheckedGroups/=213_002FDbConn/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/ResxEditorPersonal/Initialized/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>
